@@ -1,4 +1,4 @@
-baseURL = 'https://ramkumarrammohan.github.io/'
+baseURL = 'https://ramkumarrammohan.github.io/myblog'
 languageCode = 'en-us'
 title = 'My Dev Exp'
 theme = 'aether'
